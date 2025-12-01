@@ -1,5 +1,7 @@
 
 /*
+This is the main method.
+
  edit ---> Choosing the number + else if
       ---> Can't do this. I don't know why.
 
@@ -119,5 +121,6 @@ public class LinkingAreaVer2 { //main class starts here
 //main class ends here
 
 //PROGRAM ENDS HERE.
+
 
 

@@ -3,12 +3,13 @@
  edit ---> Choosing the number + else if
       ---> Can't do this. I don't know why.
 
-There has five programs.
+There has 6 programs.
  MyGregorianCalendar
  MyRandom
  SevenChakra
  Colors
  ------------- ++ User_ID ----jan12/2025
+ Random_Pick
  */
 
 import java.util.Scanner;
@@ -118,4 +119,5 @@ public class LinkingAreaVer2 { //main class starts here
 //main class ends here
 
 //PROGRAM ENDS HERE.
+
 

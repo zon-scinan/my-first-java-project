@@ -1,5 +1,6 @@
 # my-first-java-project
 For practice 
 
-Testing Branch workflow.
+First time, testing Branch workflow. 
 
+Second time, testing Branch workflow.
